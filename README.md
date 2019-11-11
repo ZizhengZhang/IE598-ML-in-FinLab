@@ -1,1 +1,1 @@
-# IE598-ML-in-FinLab
+# IE598-MachineLearning-in-FinLab
